@@ -1,0 +1,15 @@
+body {
+    font-size: 20px;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow: hidden;
+}
+
+
+.usuario {
+    color: #06e764;
+}
+
+.pesoTotal {
+    color: #0026ff;
+}
